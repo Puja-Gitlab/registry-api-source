@@ -17,7 +17,7 @@ WSO2 registry rest APIs enable developers to access or do CRUD operation on regi
 ### Building from source
 
 1. Get a clone or download source of [WSO2 sample-is repository](https://github.com/Puja-Gitlab/wso2-resgistry-restAPI).We will refer this root(master) directory as `<wso2-registry>` here onwards.
-2. Run the Maven command `mvn clean install` from the `<wso2-registry> root folder` directory.You can find built .war file in `target` directory of `<wso2-registry>/target`.
+2. Run the Maven command `mvn clean install` from the `<wso2-registry>` root directory.You will find built .war file in `target` directory of `<wso2-registry>/target`.
 
 ## Running sample applications
  
